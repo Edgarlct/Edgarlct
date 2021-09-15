@@ -7,6 +7,6 @@
 
 
 
-> PS: The best teacher is @AlexisSensei
+> PS: The best teacher is <a href="https://github.com/AlexisSensei">@AlexisSensei</a>
 
 
